@@ -19,7 +19,7 @@ solankimeet530@gmail.com
 
 Poria Jenil (BSc AIML, Gujarat University): GitHub: https://github.com/JenilPoria| LinkedIn: www.linkedin.com/in/jenil-poria-b34502263 | Email: poriajenil696@gmail.com
 
-Manav Patel (BSc AIML, Gujarat University): GitHub: [invalid URL removed] | LinkedIn: [invalid URL removed] | Email:
+Manav Patel (BSc AIML, Gujarat University): GitHub: [https://github.com/manavpatel571] | LinkedIn: [https://www.linkedin.com/in/manav-patel-571-aiml/] | Email: manavp571@gmail.com
 
 Ansh Darji (BSc AIML, Gujarat University): GitHub: [invalid URL removed] | LinkedIn: [invalid URL removed] | Email:
 
