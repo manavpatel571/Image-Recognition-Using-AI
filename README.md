@@ -11,7 +11,7 @@ Developed by:
 
 Ravi Solanki (BSc Data Science, Gujarat University): GitHub: (https://github.com/ravisolanki2674) | LinkedIn: https://www.linkedin.com/in/ravisolanki | Email: solankiravi2674@gmail.com
 
-Meet Solanki (BSc AIML, Gujarat University): GitHub: [invalid URL removed] | LinkedIn: [invalid URL removed] | Email: 
+Meet Solanki (BSc AIML, Gujarat University): GitHub: [https://github.com/MeetSolanki530] | LinkedIn: [https://www.linkedin.com/in/meet-solanki-b96a78230] | Email: 
 
 Poria Jenil (BSc AIML, Gujarat University): GitHub: https://github.com/JenilPoria| LinkedIn: www.linkedin.com/in/jenil-poria-b34502263 | Email: poriajenil696@gmail.com
 
