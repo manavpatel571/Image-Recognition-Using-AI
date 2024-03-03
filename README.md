@@ -10,10 +10,15 @@ gTTS: for converting the image analysis results into audio feedback for the user
 Developed by:
 
 Ravi Solanki (BSc Data Science, Gujarat University): GitHub: (https://github.com/ravisolanki2674) | LinkedIn: https://www.linkedin.com/in/ravisolanki | Email: solankiravi2674@gmail.com
+
 Meet Solanki (BSc AIML, Gujarat University): GitHub: [invalid URL removed] | LinkedIn: [invalid URL removed] | Email: 
+
 Poria Jenil (BSc AIML, Gujarat University): GitHub: [invalid URL removed] | LinkedIn: [invalid URL removed] | Email:
+
 Manav Patel (BSc AIML, Gujarat University): GitHub: [invalid URL removed] | LinkedIn: [invalid URL removed] | Email:
+
 Ansh Darji (BSc AIML, Gujarat University): GitHub: [invalid URL removed] | LinkedIn: [invalid URL removed] | Email:
+
 Project Context:
 
 This project was developed during a hackathon at Ahmedabad University. The purpose was to showcase the potential of combining various AI tools to create an interactive and accessible application.
