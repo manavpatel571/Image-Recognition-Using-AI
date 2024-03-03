@@ -5,8 +5,11 @@ Project Overview:
 This project explores the combination of speech recognition, image analysis, and text-to-speech for a user-friendly experience. It utilizes:
 
 Whisper: for converting user voice input to text.
+
 Llava pre-trained model: for analyzing a user-uploaded image.
+
 gTTS: for converting the image analysis results into audio feedback for the user.
+
 Developed by:
 
 Ravi Solanki (BSc Data Science, Gujarat University): GitHub: (https://github.com/ravisolanki2674) | LinkedIn: https://www.linkedin.com/in/ravisolanki | Email: solankiravi2674@gmail.com
