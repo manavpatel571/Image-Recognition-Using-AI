@@ -13,7 +13,7 @@ Ravi Solanki (BSc Data Science, Gujarat University): GitHub: (https://github.com
 
 Meet Solanki (BSc AIML, Gujarat University): GitHub: [invalid URL removed] | LinkedIn: [invalid URL removed] | Email: 
 
-Poria Jenil (BSc AIML, Gujarat University): GitHub: [invalid URL removed] | LinkedIn: [invalid URL removed] | Email:
+Poria Jenil (BSc AIML, Gujarat University): GitHub: https://github.com/JenilPoria| LinkedIn: www.linkedin.com/in/jenil-poria-b34502263 | Email: poriajenil696@gmail.com
 
 Manav Patel (BSc AIML, Gujarat University): GitHub: [invalid URL removed] | LinkedIn: [invalid URL removed] | Email:
 
